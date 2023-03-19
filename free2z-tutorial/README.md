@@ -165,3 +165,21 @@ It’s not the purpose of this wiki-doc to explain all the plugins, but I really
 
 ## Conclusion
 In conclusion, Free2z is a versatile platform for creators to showcase their abilities, share knowledge and raise funds for their projects, and engage with their supporters through the powerful tool of Free2z Live.
+
+----
+
+### Resources
+[Free2z](https://free2z.cash/)
+
+[Free2z documentation](https://free2z.cash/docs/)
+
+[2Z Overview](https://free2z.cash/docs/2Zs/)
+
+[Creating a profile](https://free2z.cash/docs/creators/creating-a-profile)
+
+[What is Free2z Live?](https://free2z.cash/docs/creators/free2z-live)
+
+[Free2z for Supporters](https://free2z.cash/docs/category/for-supporters)
+
+---
+_Written by James Katz for Zechub._
